@@ -7,4 +7,4 @@ This analysis uses word embedding algorithms (and specifically Google's word2vec
 
 
 
-You can see the full breakdown of this analysys in the following link: http://roguedatascience.com/the-magic-of-words2vec-in-harry-potter/. All of the code and media uses for the creation of this post can be found in the [rmarkdown folder[(rmarkdown).
+You can see the full breakdown of this analysys in the following link: http://roguedatascience.com/the-magic-of-words2vec-in-harry-potter/. All of the code and media uses for the creation of this post can be found in the [rmarkdown folder](rmarkdown).
