@@ -1,4 +1,4 @@
-# Thematic map of Harry Potter characters
+# Harry Potter cliques
 
 #### Related Instagram post
 * https://www.instagram.com/p/BnNwpoZh2OP/
