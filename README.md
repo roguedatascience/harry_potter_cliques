@@ -13,7 +13,7 @@ Not surprisingly, given the power and accuracy of these types of algorithms, whe
 * Dumbledore's Army
 
 <p align="center">
-  <img src="character_visualization/dendrogram_final.png" width="600"/>
+  <img src="character_visualization/dendrogram_final.png" width="700"/>
 </p>
 
 You can see the full breakdown of this analysys in the following link: http://roguedatascience.com/the-magic-of-words2vec-in-harry-potter/. All of the code and media uses for the creation of this post can be found in the [rmarkdown folder](rmarkdown).
